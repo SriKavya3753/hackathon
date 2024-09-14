@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <div >
-      <h1 class="container">Country Search</h1>
+      <h1 className="container">Country Search</h1>
       <SearchBar countries={countries} />
     </div>
   );
